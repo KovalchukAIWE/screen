@@ -1,4 +1,7 @@
-.appTitle {
-  margin-top: 60px;
+.app {
+  padding: 100px 0;
+}
+
+.app__title {
   margin-bottom: 45px;
 }

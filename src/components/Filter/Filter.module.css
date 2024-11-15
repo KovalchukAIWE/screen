@@ -1,0 +1,50 @@
+.filter {
+  position: relative;
+}
+
+.filter__label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+}
+
+.filter__selectWrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.filter__select {
+  margin-top: 30px;
+  appearance: none;
+  padding: 8px 12px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+  width: 100%;
+}
+
+.filter__select:hover {
+  border-color: #888;
+  background-color: #f0f0f0;
+}
+
+.filter__select:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 3px rgba(0, 123, 255, 0.5);
+}
+
+.filter__arrow {
+  position: absolute;
+  top: 80%;
+  right: 5px;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: #333;
+  font-size: 12px;
+}

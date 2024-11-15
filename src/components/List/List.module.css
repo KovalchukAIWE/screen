@@ -1,5 +1,25 @@
 .list {
   display: flex;
+}
+
+.list__sidebar {
+  width: 20%;
+  background-color: rgb(243 243 243);
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.list__main {
+  width: 80%;
+  padding: 0 20px;
+
+  @media screen and (min-width: 1440px) {
+    padding: 0 100px;
+  }
+}
+
+.list__items {
+  display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
   gap: 30px;
