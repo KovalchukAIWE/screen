@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/screen/static/css/main.ebfc7b8e.css",
-    "main.js": "/screen/static/js/main.c4dc06e0.js",
+    "main.css": "/screen/static/css/main.692bf5b7.css",
+    "main.js": "/screen/static/js/main.0804cb07.js",
     "static/media/cisco.png": "/screen/static/media/cisco.8b50dd282fe403c43957.png",
     "static/media/sysdig.png": "/screen/static/media/sysdig.c4bf36ea72350e60d130.png",
     "static/media/harness.png": "/screen/static/media/harness.b0397ed5f8bb43a671d9.png",
     "static/media/bcic.png": "/screen/static/media/bcic.1c1c27d10b52f5fba7b6.png",
     "index.html": "/screen/index.html",
-    "main.ebfc7b8e.css.map": "/screen/static/css/main.ebfc7b8e.css.map",
-    "main.c4dc06e0.js.map": "/screen/static/js/main.c4dc06e0.js.map"
+    "main.692bf5b7.css.map": "/screen/static/css/main.692bf5b7.css.map",
+    "main.0804cb07.js.map": "/screen/static/js/main.0804cb07.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebfc7b8e.css",
-    "static/js/main.c4dc06e0.js"
+    "static/css/main.692bf5b7.css",
+    "static/js/main.0804cb07.js"
   ]
 }
